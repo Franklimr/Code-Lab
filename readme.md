@@ -1,0 +1,1 @@
+El siguiente HTML se basa en una pagina web de cursos de programacion, tomando como idea talento tech, la pagina principal da la bienvenida y muestra los cursos disponibles, tiene links hacia los cursos dando una breve descripcion, tambien tiene la pagina de contacto donde pide nombre correo y un option simple del curso a preguntar.
